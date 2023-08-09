@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Mustafa Ahmed, Angular developer from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="13"/> <b>Giza, Egypt</b></p>
+<p>Front end developer skilled at creating consistent and friendly user experience websites that highlights brand messaging  .  </p>
 <h3>Things I code with</h3>
 <p>
 
