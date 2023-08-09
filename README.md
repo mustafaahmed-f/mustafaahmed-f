@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**mustafaahmed-f/mustafaahmed-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on eCommerce Project
 - 🌱 I’m currently learning NodeJs
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML , css or JS 
 - 📫 How to reach me: https://www.linkedin.com/in/mustafafekry/)https://www.linkedin.com/in/mustafafekry/
 - ⚡ Fun fact: I Love cats <3
--->
