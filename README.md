@@ -6,7 +6,7 @@
 <h3>Things I code with</h3>
 <p>
 
-  <img alt="react" src="https://img.shields.io/badge/-react-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" />
+  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
