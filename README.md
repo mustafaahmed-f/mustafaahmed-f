@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mustafa Ahmed, Angular developer from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="13"/> <b>Giza, Egypt</b></p>
-<p>Front end developer skilled at creating consistent and friendly user experience websites that highlights brand messaging  .  </p>
+<p>Welcome to my page! </br> I'm Mustafa Ahmed, MERN stack developer from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="13"/> <b>Giza, Egypt</b></p>
+<p>Developer skilled in creating consistent and friendly user experience websites that highlights brand messaging in addition to RESTful applications using node.js  .  </p>
 <h3>Things I code with</h3>
 <p>
 
