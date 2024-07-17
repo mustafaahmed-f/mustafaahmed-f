@@ -26,22 +26,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mustafaahmed-f/QuizAppSourceCode "><b>Quiz Application</b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/movies_project"><b>Movies App </b></a>  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/mustafaahmed-f/note-app/tree/main"><b>Note application</b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/E-Commerce-back-end"><b>E-Commerce</b> </a> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mustafaahmed-f/yummi-new"><b>Yummi</b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/SARAHA_Front-end"><b>SARAHA Frontend </b></a>  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mustafaahmed-f/MediaPlayer"><b>Media player </b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/Saraha_Backend"><b>SARAHA Backend </b></a>  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mustafaahmed-f/eLearningSourceCode"><b>E-Learning</b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/trello_Backend"><b>Trello</b></a>  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mustafaahmed-f/weatherForecastSimpleProject"><b>Weather forecast</b></a></td>
+      <td><a href="https://github.com/mustafaahmed-f/quiz-app-react"><b>Quiz app</b></a> <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
     </tr>
   </tbody>
 </table>
