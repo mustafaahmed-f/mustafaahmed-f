@@ -1,62 +1,145 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hi, I'm Mustafa Ahmed
+### 🚀 Junior Full-Stack MERN Developer | Next.js | React.js | Node.js | Express.js | TypeScript
 
+📍 Giza, Egypt  
 
-<p>Welcome to my page! </br> I'm Mustafa Ahmed, MERN stack developer from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="13"/> <b>Giza, Egypt</b></p>
-<p>Developer skilled in creating consistent and friendly user experience websites that highlights brand messaging in addition to RESTful applications using node.js  .  </p>
-<h3>Things I code with</h3>
+---
+
+## 🧠 About Me
+
+Highly motivated **Full-Stack MERN Developer** with strong experience in building  
+**production-grade web applications** using **Next.js, React, Node.js, MongoDB, MySQL**, and **Redis**.
+
+I specialize in:
+- ⚡ Scalable REST APIs
+- ⚙️ Full-stack TypeScript architectures
+- 🧩 Reusable component libraries
+- 🚀 Performance optimization & SSR
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://mustafa-new-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mustafaahmed-f" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/mustafafekry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/mustafaahmed1997" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 <p>
-
-  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/mustafaahmed-f/movies_project"><b>Movies App </b></a>  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/mustafaahmed-f/E-Commerce-back-end"><b>E-Commerce</b> </a> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mustafaahmed-f/SARAHA_Front-end"><b>SARAHA Frontend </b></a>  <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mustafaahmed-f/Saraha_Backend"><b>SARAHA Backend </b></a>  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mustafaahmed-f/trello_Backend"><b>Trello</b></a>  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mustafaahmed-f/quiz-app-react"><b>Quiz app</b></a> <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react&logoColor=white&color=blue" /></td>
-    </tr>
-  </tbody>
-</table>
-
-- 🔭 I’m currently working on eCommerce Project
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on real-world angular project
-- 🤔 I’m looking for help with Islamic websites
-- 💬 Ask me about HTML , css or JS 
-- 📫 How to reach me: https://www.linkedin.com/in/mustafafekry/)https://www.linkedin.com/in/mustafafekry/
-- ⚡ Fun fact: I Love cats <3
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/mustafaahmed-f" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/mustafafekry/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <img src="https://img.shields.io/badge/React-20232A?style=square&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=square&logo=redux"/>
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=square"/>
 </p>
 
-----------------------------------
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=square"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=square&logo=prisma"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=square"/>
+</p>
 
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=square&logo=redis"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=square&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=square&logo=cloudinary"/>
+</p>
+
+### 🧪 Testing & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=square"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=square&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaahmed-f&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaahmed-f&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaahmed-f&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 Blog Platform (Full-Stack)
+🔗 Live: https://blog-next-app-by-mustafa.vercel.app  
+
+- Next.js + Node.js (TypeScript end-to-end)
+- Clerk authentication
+- Prisma + MySQL
+- Cloudinary media pipeline
+- Redis caching & rate limiting
+- Dockerized deployment
+
+---
+
+### 🛒 E-Commerce Platform
+🔗 Live: [https://blog-next-app-by-mustafa.vercel.app ](https://ecommerce-nextjs-by-mustafa.vercel.app/) 
+
+- Next.js 14 + MongoDB
+- Offline-first cart with Redis
+- Stripe payments & webhooks
+- AI-powered chatbot (Gemini)
+- Trie-based product search
+- Shadcn + Tailwind UI
+
+---
+
+### 🧑‍💼 Admin Dashboard
+🔗 Live: [https://blog-next-app-by-mustafa.vercel.app](https://ecommerce-admin-dashboard-mustafa.vercel.app/)  
+
+- Next.js 15 modular architecture
+- Redis Pub/Sub + SSE notifications
+- Stripe analytics dashboard
+- TanStack Table v8
+- Framer Motion animations
+
+---
+
+## 💼 Work Experience
+
+**Frontend Developer — Crystal Soft ERP Systems**  
+Nov 2024 – Feb 2025 (Remote)
+
+**Frontend Intern — VODO (Saudi Arabia)**  
+Jun 2024 – Aug 2024
+
+---
+
+## ✨ Final Note
+
+> Building scalable, clean, and impactful software 🚀  
+> Always open to new challenges.
