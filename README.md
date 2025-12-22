@@ -1,3 +1,10 @@
+<!-- ================= TYPING HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mustafa+Ahmed+%F0%9F%91%8B;Full-Stack+MERN+Developer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Apps" />
+</p>
+
+---
+
 # 👋 Hi, I'm Mustafa Ahmed
 ### 🚀 Junior Full-Stack MERN Developer | Next.js | React.js | Node.js | Express.js | TypeScript
 
